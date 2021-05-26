@@ -2,6 +2,9 @@
 **OBJETIVO:**  Insere uma aba de suporte no site comunicação entre usuário e atendente.
 **PÚBLICO ALVO:** cliente.
 
+![LOGO](https://user-images.githubusercontent.com/84814160/119598598-a339b680-bdb9-11eb-94cf-97da85582746.png)
+
+
 # LAYOUT
 ## VISÃO CLIENTE
 ![suporte-cliente-1](https://user-images.githubusercontent.com/84814160/119598065-9e283780-bdb8-11eb-8e55-77badaf02f95.png)
